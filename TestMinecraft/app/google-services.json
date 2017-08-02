@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982518418182",
+    "firebase_url": "https://testminecraft-e7bb6.firebaseio.com",
+    "project_id": "testminecraft-e7bb6",
+    "storage_bucket": "testminecraft-e7bb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982518418182:android:ca0ddc5509bfc976",
+        "android_client_info": {
+          "package_name": "com.example.home.testminecraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982518418182-in3g21gt2vfqdbtde1os5mfhfo4gccvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home.testminecraft",
+            "certificate_hash": "772e166c202cf30d6df5a15e1774ce884c41ccee"
+          }
+        },
+        {
+          "client_id": "982518418182-g500nr5pfvmtd1j0if6km76esvnj3atu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPbdK2sG96STqNTu0NLzW5vwrG_U72JTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982518418182-g500nr5pfvmtd1j0if6km76esvnj3atu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
