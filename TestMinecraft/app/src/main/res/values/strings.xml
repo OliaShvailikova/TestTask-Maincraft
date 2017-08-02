@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestMinecraft</string>
+    <string name="butt_install">Подробнее...>></string>
+    <string name="butt_save">Установить</string>
+    <string name="load">Загрузка</string>
+    <string name="butt_back">Назад</string>
+    <string name="title">Скачать после просмотра</string>
+    <string name="btn_return">Отмена</string>
+    <string name="btn_ok">ОК</string>
+    <string name="message">Скачать карту можно после просмотра рекламы</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
